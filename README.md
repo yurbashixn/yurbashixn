@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yurbashixn&label=Profile%20views&color=0e75b6&style=flat" alt="yurbashixn" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ahriyrbxs" target="blank"><img src="https://img.shields.io/twitter/follow/ahriyrbxs?logo=twitter&style=for-the-badge" alt="ahriyrbxs" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ahriyrbxs" target="blank"><img src="https://img.shields.io/twitter/follow/ahriyrbxs?logo=twitter&style=for-the-badge" alt="advicebyahri" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
