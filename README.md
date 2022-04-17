@@ -1,4 +1,4 @@
-![mybanner](https://i.imgur.com/4pk2O1c.png)
+
 
 <h1 align="center">Hi 👋, I'm Ahri Yurbashian</h1>
 <h3 align="center">A frontend based in Brazil</h3>
